@@ -1,4 +1,4 @@
-# NeuGenAI-Task1
+# SHAKTHI SHIVAM-Task1 (NeuGenAI)
 
 ## PDF Chatbot Project
 
